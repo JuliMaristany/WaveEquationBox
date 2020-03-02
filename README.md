@@ -14,4 +14,8 @@ An example solution, at different time steps:
 
 Stability of the Energy, for one particular solution, at different time steps:
 
+![Stability](https://user-images.githubusercontent.com/29484930/75716455-352d3f00-5c9d-11ea-9b3a-30fd4e69a95e.png)
+
 Convergence of the energy, for t=10, at different resolutions:
+
+![Convergence](https://user-images.githubusercontent.com/29484930/75716577-7b829e00-5c9d-11ea-8145-3fa6f7d2074e.png)
