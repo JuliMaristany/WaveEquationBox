@@ -176,9 +176,9 @@ ind=[]
 
 for i=1:10
 
-    T=100*i
+    T=10*i
 
-    L=100*i
+    L=10*i
 
     u = zeros(L,T)
 
