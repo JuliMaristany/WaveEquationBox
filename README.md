@@ -8,4 +8,8 @@ The discretization method is piecewise linear continuous functions.
 
 The evolution is described via finite differences.
 
-Attached are images showing an example solution, at different time steps, and stability and convergence of the energy.
+An example solution, at different time steps:
+
+Stability of the Energy, for one particular solution, at different time steps:
+
+Convergence of the energy, for t=10, at different resolutions:
