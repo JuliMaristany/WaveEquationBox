@@ -229,4 +229,4 @@ for i=1:10
 
 end
 
-plot(ind,Eylabel="Energy",xlabel="Resolution",label="Energy")
+plot(ind,ylabel="Energy",xlabel="Resolution",label="Energy")
